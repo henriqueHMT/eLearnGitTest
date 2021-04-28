@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" xml:space="preserve" style="enable-background:new 0 0 475.1 475.2;" viewBox="0 0 475.1 475.2" y="0px" x="0px" id="Layer_1" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"><style type="text/css">
+	.st0{fill:none;stroke:#F18A00;stroke-width:60;stroke-linecap:round;stroke-miterlimit:10;}
+</style><g id="Layer_2_1_"><g id="Background_Patterns"><polyline data-cppathid="10000" points="64.3,201.9 28.3,237.6 237.6,446.9 388.3,295.9   " class="st0"/><polyline data-cppathid="10001" points="117.3,148.9 237.6,28.3 446.9,237.6 379.3,305.9   " class="st0"/></g></g></svg>
